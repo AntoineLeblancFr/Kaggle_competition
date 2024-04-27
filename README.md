@@ -10,6 +10,8 @@ Ce dossier contient le notebook `final.ipynb` ainsi que le fichier final `result
 
 ## Setup
 
+Les données sont disponibles au lien suivant : https://drive.google.com/drive/folders/1Q4TPEzXRkC63I6728CBssUunkgkpnatx?usp=drive_link
+
 Avant d'exécuter le code, vérifiez que le lien vers le dossier contenant les données est correct dans la section `setup` du notebook `final.ipynb`.
 
 Par défaut, la cellule `setup` contient le code pour connecter le notebook à Google Drive. Cependant, ces cellules sont optionnelles. Il suffit simplement de définir correctement la variable `root_path`, qui correspond au dossier dans lequel est enregistré le dossier `data` contenant les fichiers de données.
